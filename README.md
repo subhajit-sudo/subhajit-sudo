@@ -78,7 +78,7 @@ me.say_hi()
 
 <table>
 <tr>
-<td align="center" width="40%">
+<td align="center" width="60%">
 
 #### 🚩 TryHackMe
 
@@ -89,7 +89,7 @@ me.say_hi()
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Subhajit1)
 
 </td>
-<td align="center" width="40%">
+<td align="center" width="60%">
 
 #### 🎖️ Focus Areas
 
