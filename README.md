@@ -141,9 +141,9 @@ graph LR
     style A fill:,stroke:#333,stroke-width:2px
     style B fill:,stroke:#333,stroke-width:2px
     style C fill:,stroke:#333,stroke-width:2px
-    style D fill:#555,stroke:#333,stroke-width:2px
-    style E fill:#555,stroke:#333,stroke-width:2px
-    style F fill:#555,stroke:#333,stroke-width:2px
+    style D fill:,stroke:#333,stroke-width:2px
+    style E fill:,stroke:#333,stroke-width:2px
+    style F fill:,stroke:#333,stroke-width:2px
 ```
 
 </div>
