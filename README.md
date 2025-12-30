@@ -168,8 +168,8 @@ graph LR
 
 <div align="center">
 
-<a href="https://github.com/subhojit64/Bug-Bounty-Automation-Toolkit-Installer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=subhojit64&repo=Bug-Bounty-Automation-Toolkit-Installer&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F4&icon_color=00F7F4&show_owner=true" />
+<a href="https://github.com/subhajit-sudo/Bug-Bounty-Automation-Toolkit-Installer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=subhajit-sudo&repo=Bug-Bounty-Automation-Toolkit-Installer&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F4&icon_color=00F7F4&show_owner=true" />
 </a>
 
 <a href="https://github.com/subhojit64/rgb.bar">
