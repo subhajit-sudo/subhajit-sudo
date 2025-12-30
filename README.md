@@ -164,22 +164,6 @@ graph LR
 
 ---
 
-### 🌟 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/subhajit-sudo/Bug-Bounty-Automation-Toolkit-Installer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=subhajit-sudo&repo=Bug-Bounty-Automation-Toolkit-Installer&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F4&icon_color=00F7F4&show_owner=true" />
-</a>
-
-<a href="https://github.com/subhajit-sudo/rgb">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=subhajit-sudo&repo=rgb&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F4&icon_color=00F7F4&show_owner=true" />
-</a>
-
-</div>
-
----
-
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
