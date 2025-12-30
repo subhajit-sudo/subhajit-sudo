@@ -138,9 +138,9 @@ graph LR
     C --> D[System Security]
     D --> E[Advanced Techniques]
     E --> F[Bug Bounty]
-    style A fill:#00F7F4,stroke:#333,stroke-width:2px
-    style B fill:#00F7F4,stroke:#333,stroke-width:2px
-    style C fill:#00F7F4,stroke:#333,stroke-width:2px
+    style A fill:,stroke:#333,stroke-width:2px
+    style B fill:,stroke:#333,stroke-width:2px
+    style C fill:,stroke:#333,stroke-width:2px
     style D fill:#555,stroke:#333,stroke-width:2px
     style E fill:#555,stroke:#333,stroke-width:2px
     style F fill:#555,stroke:#333,stroke-width:2px
@@ -155,7 +155,7 @@ graph LR
 <div align="center">
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/subhajitnandi64/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhajit7908/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](YOUR_DISCORD)
