@@ -1,207 +1,145 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Subhajit%20Nandi&fontSize=42&fontAlignY=30&desc=Cybersecurity%20Enthusiast%20%7C%20Ethical%20Hacker%20in%20Training&descAlignY=51&descAlign=50" width="100%"/>
-</div>
+def say_hi(self):
+    print("Thanks for dropping by! Let's connect and build something awesome!")
+me = SubhajitNandi() me.say_hi()
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F4&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!;Cybersecurity+Student;Passionate+Bug+Hunter;CTF+Enthusiast)](https://git.io/typing-svg)
-  
-</div>
 
-<br/>
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-### 👨‍💻 About Me
-
-```python
-class CyberSecurityStudent:
-    def __init__(self):
-        self.name = "Subhajit Nandi"
-        self.role = "Cybersecurity Student"
-        self.location = "India"
-        self.interests = [
-            "Penetration Testing",
-            "Web Application Security",
-            "Network Security",
-            "Digital Forensics",
-            "Threat Hunting"
-        ]
-        self.currently_learning = [
-            "OWASP Top 10",
-            "Binary Exploitation",
-            "Malware Analysis",
-            "Cloud Security"
-        ]
-    
-    def say_hi(self):
-        print("Thanks for visiting!")
-
-me = CyberSecurityStudent()
-me.say_hi()
-```
+- 🔐 Passionate about **Cybersecurity & Ethical Hacking**
+- 🎯 Active **CTF Player** and problem solver
+- 🐧 **Linux Enthusiast** - Terminal is my home
+- 💻 Building tools and exploring vulnerabilities
+- 📚 Currently learning **Advanced Penetration Testing**
+- 🤝 Open for **collaborations** on security projects
 
 <br clear="right"/>
 
 ---
 
-### 🛡️ Cybersecurity Arsenal
+## 🛠️ Skills & Technologies
 
 <div align="center">
 
-#### 🔍 Penetration Testing & Tools
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-
-#### 💻 Programming & Scripting
+### Languages & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### 🖥️ Operating Systems
+### Security & Tools
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+
+### Platforms & Others
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-### 🎯 Practice Platforms & Achievements
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="60%">
-
-#### 🚩 TryHackMe
-
-<a href="https://tryhackme.com/p/Subhajit1">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Subhajit1.png" alt="TryHackMe Badge"/>
-</a>
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Subhajit1)
-
-</td>
-<td align="center" width="60%">
-
-#### 🎖️ Focus Areas
-
-🔐 **Web Exploitation**  
-🌐 **Network Reconnaissance**  
-🛠️ **Privilege Escalation**  
-🔍 **OSINT Techniques**  
-🧩 **Cryptography Challenges**
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-
-### 🏆 Achievements & Certifications
-
-<div align="center">
-
-```ascii
-╔═══════════════════════════════════════════════════════╗
-║  🎓 Currently Pursuing Certifications:               ║
-║                                                       ║
-║  [ ] CompTIA Security+                               ║
-║  [ ] Certified Ethical Hacker (CEH)                  ║
-║  [ ] eJPT (Junior Penetration Tester)                ║
-║  [ ] OSCP (Offensive Security Certified Professional)║
-╚═══════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-### 💡 Current Learning Path
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[Fundamentals] --> B[Web Security]
-    B --> C[Network Security]
-    C --> D[System Security]
-    D --> E[Advanced Techniques]
-    E --> F[Bug Bounty]
-    style A fill:,stroke:#333,stroke-width:2px
-    style B fill:,stroke:#333,stroke-width:2px
-    style C fill:,stroke:#333,stroke-width:2px
-    style D fill:,stroke:#333,stroke-width:2px
-    style E fill:,stroke:#333,stroke-width:2px
-    style F fill:,stroke:#333,stroke-width:2px
-```
-
-</div>
-
----
-
-### 📫 Connect With Me
-
-<div align="center">
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/subhajitnandi64/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhajit7908/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhojitnandi64@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](subhajit_1111_06466)
-
-</div>
-
----
-
-### 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- Coming Soon: Write-ups on CTF challenges
-- Security tips and tricks
-- Tool reviews and tutorials
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### 💭 Security Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The+only+truly+secure+system+is+one+that+is+powered+off,+cast+in+a+block+of+concrete+and+sealed+in+a+lead-lined+room+with+armed+guards.&author=Gene+Spafford)
-
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
+## 📊 GitHub Stats
 
 <div align="center">
   
-### 👁️ Profile Views
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=subhajit-sudo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=subhajit-sudo&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00F7F4&style=for-the-badge&label=PROFILE+VIEWS)
+</div>
 
-### ⭐ Show some love!
+<div align="center">
+  
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhajit-sudo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
 
-If you like my work, consider giving a ⭐ to my repositories!
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+---
+
+## 🏆 TryHackMe
+
+<div align="center">
+
+<a href="https://tryhackme.com/p/Subhajit1" target="_blank">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Subhajit1.png" alt="TryHackMe Badge"/>
+</a>
+
+| 🎯 Status | 🏅 Rank | 🚩 Rooms Completed | 🔥 Focus |
+|:---------:|:-------:|:-----------------:|:--------:|
+| Active | Top 10% | 50+ | CTF & Pentesting |
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Subhajit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=subhajit-sudo&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff)](https://github.com/subhajit-sudo)
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=subhajit-sudo&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15)](https://github.com/subhajit-sudo)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/subhajit-sudo/subhajit-sudo/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subhajit-sudo)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/subhajitnandi64)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Subhajit1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20quieter%20you%20become%2C%20the%20more%20you%20can%20hear.&author=Kali%20Linux)](https://github.com/subhajit-sudo)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Thanks for visiting! 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+**Made with ❤️ by Subhajit Nandi**
+
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-58a6ff?style=flat-square&labelColor=0d1117)
 
 </div>
