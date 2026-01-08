@@ -1,8 +1,3 @@
-def say_hi(self):
-    print("Thanks for dropping by! Let's connect and build something awesome!")
-me = SubhajitNandi() me.say_hi()
-
-
 <img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
 
 - 🔐 Passionate about **Cybersecurity & Ethical Hacking**
